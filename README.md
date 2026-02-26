@@ -37,7 +37,7 @@ Application front-end développée en JavaScript vanilla simulant le site d'une 
 ## 🚀 Lancer le projet
 
 ```bash
-git clone https://github.com/tonpseudo/sophie-bluel
+git clone https://github.com/acilka/Project6final.git
 cd sophie-bluel
 ```
 
