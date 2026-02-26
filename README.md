@@ -45,8 +45,7 @@ Ouvrir simplement `index.html` avec Live Server
 
 ## 🌐 Démo
 
-https://lien-vercel.app
-
 ## 📸 Aperçu
 
-Ajouter ici vos screenshots
+<img width="563" height="699" alt="Capture d’écran 2026-02-25 142612" src="https://github.com/user-attachments/assets/88d3f176-7a3b-4111-ad39-f224e80cb8d5" />
+<img width="539" height="338" alt="Capture d’écran 2026-02-25 142639" src="https://github.com/user-attachments/assets/fa568f0f-7cf5-49c3-9282-f28e68c6f0da" />
