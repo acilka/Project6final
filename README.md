@@ -38,7 +38,6 @@ Application front-end développée en JavaScript vanilla simulant le site d'une 
 
 ```bash
 git clone https://github.com/acilka/Project6final.git
-cd sophie-bluel
 ```
 
 Ouvrir simplement `index.html` avec Live Server
